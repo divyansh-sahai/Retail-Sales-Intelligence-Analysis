@@ -279,20 +279,6 @@ This project demonstrates several core data analyst skills:
 
 ---
 
-# Project Structure
-
-```
-retail-sales-intelligence-analysis
-│
-├── Retail_Sales_Project.ipynb
-├── train.csv
-├── dashboard_page1.png
-├── dashboard_page2.png
-└── README.md
-```
-
----
-
 # Conclusion
 
 This project demonstrates how raw transactional data can be transformed into meaningful business insights using data analysis and visualization tools.
@@ -300,3 +286,4 @@ This project demonstrates how raw transactional data can be transformed into mea
 By combining Python analysis with Power BI dashboards, the project provides both **technical analysis and executive-level reporting**, similar to what would be expected in a real-world business analytics role.
 
 The results highlight key revenue drivers, regional performance differences, and operational delivery insights that could help guide strategic decision-making for a retail company.
+
